@@ -1,0 +1,39 @@
+body{
+    margin:0;
+    background-color: wheat;
+}
+header{
+    text-align: center;
+    color: aqua;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 2px,4px,gray;
+}
+main{
+    display: flex;
+    gap: 20PX;
+    margin: 10%;
+}
+article{
+    background-color: rgb(128, 159, 186);
+    padding: 12px;
+    border-radius: 8px;
+    box-shadow: 6px;
+}
+article a{
+    text-decoration: none;
+    font-family: cursive;
+    text-align: center;
+}
+
+section{
+    text-align: center;
+    padding: 24px;
+    background-color: blanchedalmond;
+}
+footer{
+    text-align: center;
+    padding: 16px;
+    background-color: bisque;
+    color: chocolate;
+}
